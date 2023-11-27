@@ -1,0 +1,14 @@
+ul#menu li{
+    display: inline-block;
+    text-decoration:none;
+    list-style-type: none;
+    margin: 5px;
+    margin-left: 150px;
+    margin-top: 2px;
+}
+li{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}

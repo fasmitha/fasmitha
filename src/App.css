@@ -1,0 +1,38 @@
+/* body{
+  background-color:antiquewhite;
+}
+
+h1{
+  text-align: center;
+  color: blue;
+}
+h3{
+  position: absolute;
+  color: white;
+  top:70%;
+  margin-left:90px ;
+  margin-top: -20%;
+
+}
+h4{
+  position: absolute;
+  width:20%;
+  top:80%;
+  color: white;
+text-align: center;
+margin-left: 100px;
+margin-top: -19%;
+} */
+.hide{
+  visibility: hidden;
+  height: 40px;
+}
+#myDIV:hover .hide{
+  visibility: visible;
+  height: 110px;
+}
+#myDIV:hover {
+ border-radius: 20px;
+border: 1px solid;
+
+}
